@@ -1,3 +1,5 @@
+![CI](https://github.com/Abhishek-rao2/docker-apache-static-site/actions/workflows/docker-build.yml/badge.svg)
+
 \# Docker Apache Static Site
 
 
