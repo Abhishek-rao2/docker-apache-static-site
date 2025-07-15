@@ -20,11 +20,14 @@ This project demonstrates how to run a simple static website using Docker and Ap
 
 
 
+
 1\. Build the Docker image:
 
 ```bash
 
 docker build -t apache-static-site .
 
-# CI/CD enabled ✅
+```
 
+
+# CI/CD enabled ✅
