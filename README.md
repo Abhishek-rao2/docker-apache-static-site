@@ -26,5 +26,5 @@ This project demonstrates how to run a simple static website using Docker and Ap
 
 docker build -t apache-static-site .
 
-
+# CI/CD enabled ✅
 
